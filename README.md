@@ -6,7 +6,7 @@ Welcome to my curated list of licenses and certifications! Each certification re
 
 ## 🏆 **Certifications**
 
-### 🎓 IBM Data Science Professional Certificate  ([#]https://github.com/Mhemd139/Portfolio/blob/images/IBM%20Data%20Science%20Professional%20Certificate.png?raw=true)
+### 🎓 IBM Data Science Professional Certificate  (https://github.com/Mhemd139/Portfolio/blob/images/IBM%20Data%20Science%20Professional%20Certificate.png?raw=true)
 - **Issuer**: IBM  
 - **Date Issued**: June 2024  
 - **Credential ID**: 63KSEGYJR2VA  
